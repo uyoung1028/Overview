@@ -1,0 +1,11 @@
+* Greek Letter 
+$\beta$~0~
+\+ $\beta$~1~x~1~
+
+* VIF
+- Package: car
+- Function: vif(model)
+
+* LOF
+- Package: alr3
+- Function: pureErrorAnova(model)
